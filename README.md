@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vanshika Prakash</h1>
 <h3 align="center"> GDG On Campus Organizer </h3>
 
-- Reach out to me @ **vanshikaprakash05@gmail.com**
+- Reach out @ **vanshikaprakash05@gmail.com**
 - **Formerly led my uni's tech community, TechnoJam, an avid reader and hyper active on pinterest**
 
 <h3 align="left">Connect with me:</h3>
