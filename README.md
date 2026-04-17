@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vanshika Prakash</h1>
+<h1 align="center">Hey, I'm Vanshika Prakash</h1>
 <h3 align="center"> GDG On Campus Organizer </h3>
 
 - Reach out @ **vanshikaprakash05@gmail.com**
